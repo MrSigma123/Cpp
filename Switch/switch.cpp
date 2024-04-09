@@ -14,14 +14,20 @@ int main(void){
       cout << "00  00\n";
       cout << " 0000\n";
     case 2:
-      cout << "You have chosen:";
+      cout << "You have chosen:" << endl;
       cout << "1111\n";
       cout << "  11\n";
       cout << "  11\n";
       cout << "  11\n";
       cout << "111111\n";
     case 3:
-      cout << "You have chosen:";
+      cout << "You have chosen:" << endl;
+      cout << " 2222";
+      cout << "22  22";
+      cout << "   22";
+      cout << "  22";
+      cout << "222222";
+
     case 4:
       cout << "You have chosen:";
 
