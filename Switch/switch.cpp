@@ -7,14 +7,19 @@ int main(void){
   cin >> choice;
   switch(choice){
     case 1:
-      cout << "You have chosen:";
-      cout << " 0000";
-      cout << "00  00";
-      cout << "00  00";
-      cout << "00  00";
-      cout << " 0000";
+      cout << "You have chosen:" << endl;
+      cout << " 0000\n";
+      cout << "00  00\n";
+      cout << "00  00\n";
+      cout << "00  00\n";
+      cout << " 0000\n";
     case 2:
       cout << "You have chosen:";
+      cout << "1111\n";
+      cout << "  11\n";
+      cout << "  11\n";
+      cout << "  11\n";
+      cout << "111111\n";
     case 3:
       cout << "You have chosen:";
     case 4:
