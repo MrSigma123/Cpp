@@ -39,7 +39,7 @@ int main(void){
       cout << " 3333\n";
       break;
     case 4:
-      cout << "You have chosen:";
+      cout << "You have chosen:" << endl;
       cout << "44  44\n";
       cout << "44  44\n";
       cout << "444444\n";
@@ -47,18 +47,23 @@ int main(void){
       cout << "    44\n";
       break;
     case 5:
-      cout << "You have chosen:";
-      cout << "555555";
-      cout << "55";
-      cout << "55555";
-      cout << "    55";
-      cout << "55555";
+      cout << "You have chosen:" << endl;
+      cout << "555555\n";
+      cout << "55\n";
+      cout << "55555\n";
+      cout << "    55\n";
+      cout << "55555\n";
       break;
     case 6:
-      cout << "You have chosen:";
-
+      cout << "You have chosen:" << endl;
+      cout << " 6666\n";
+      cout << "66\n";
+      cout << "66666\n";
+      cout << "66  66\n";
+      cout << " 6666\n";
+      break;
     case 7:
-      cout << "You have chosen:";
+      cout << "You have chosen:" << endl;
 
     case 8:
       cout << "You have chosen:";
