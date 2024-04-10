@@ -40,7 +40,12 @@ int main(void){
       break;
     case 4:
       cout << "You have chosen:";
-
+      cout << "44  44\n";
+      cout << "44  44\n";
+      cout << "444444\n";
+      cout << "    44\n";
+      cout << "    44\n";
+      break;
     case 5:
       cout << "You have chosen:";
 
