@@ -7,7 +7,7 @@ int main(void){
   cin >> choice;
   switch(choice){
     case 0:
-      cout << "You have chosen:" << endl;
+      cout << "You have chosen:\n\n";
       cout << " 0000\n";
       cout << "00  00\n";
       cout << "00  00\n";
@@ -15,7 +15,7 @@ int main(void){
       cout << " 0000\n";
       break;
     case 1:
-      cout << "You have chosen:" << endl;
+      cout << "You have chosen:\n\n";
       cout << "1111\n";
       cout << "  11\n";
       cout << "  11\n";
@@ -23,7 +23,7 @@ int main(void){
       cout << "111111\n";
       break;
     case 2:
-      cout << "You have chosen:" << endl;
+      cout << "You have chosen:\n\n";
       cout << " 2222\n";
       cout << "22  22\n";
       cout << "   22\n";
@@ -31,7 +31,7 @@ int main(void){
       cout << "222222\n";
       break;
     case 3:
-      cout << "You have chosen:" << endl;
+      cout << "You have chosen:\n\n";
       cout << " 3333\n";
       cout << "33  33\n";
       cout << "   333\n";
@@ -39,7 +39,7 @@ int main(void){
       cout << " 3333\n";
       break;
     case 4:
-      cout << "You have chosen:" << endl;
+      cout << "You have chosen:\n\n";
       cout << "44  44\n";
       cout << "44  44\n";
       cout << "444444\n";
@@ -47,7 +47,7 @@ int main(void){
       cout << "    44\n";
       break;
     case 5:
-      cout << "You have chosen:" << endl;
+      cout << "You have chosen:\n\n";
       cout << "555555\n";
       cout << "55\n";
       cout << "55555\n";
@@ -55,7 +55,7 @@ int main(void){
       cout << "55555\n";
       break;
     case 6:
-      cout << "You have chosen:" << endl;
+      cout << "You have chosen:\n\n";
       cout << " 6666\n";
       cout << "66\n";
       cout << "66666\n";
@@ -63,7 +63,7 @@ int main(void){
       cout << " 6666\n";
       break;
     case 7:
-      cout << "You have chosen:" << endl;
+      cout << "You have chosen:\n\n";
       cout << "777777\n";
       cout << "   77\n";
       cout << "  77\n";
@@ -71,7 +71,7 @@ int main(void){
       cout << "77\n";
       break;
     case 8:
-      cout << "You have chosen:" << endl;
+      cout << "You have chosen:\n\n";
       cout << " 8888\n";
       cout << "88  88\n";
       cout << " 8888\n";
@@ -79,7 +79,7 @@ int main(void){
       cout << " 8888\n";
       break;
     case 9:
-      cout << "You have chosen:" << endl;
+      cout << "You have chosen:\n\n";
       cout << " 9999\n";
       cout << "99  99\n";
       cout << " 99999\n";
@@ -87,7 +87,7 @@ int main(void){
       cout << " 9999\n";
       break;
     case 10:
-      cout << "You have chosen:" << endl;
+      cout << "You have chosen:\n\n";
       cout << "1111    0000\n";
       cout << "  11   00  00\n";
       cout << "  11   00  00\n";
