@@ -79,8 +79,13 @@ int main(void){
       cout << " 8888\n";
       break;
     case 9:
-      cout << "You have chosen:";
-
+      cout << "You have chosen:" << endl;
+      cout << " 9999\n";
+      cout << "99  99\n";
+      cout << " 99999\n";
+      cout << "    99\n";
+      cout << " 9999\n";
+      break;
     case 10:
       cout << "You have chosen:";
 
