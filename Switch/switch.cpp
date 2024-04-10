@@ -87,8 +87,14 @@ int main(void){
       cout << " 9999\n";
       break;
     case 10:
-      cout << "You have chosen:";
-
+      cout << "You have chosen:" << endl;
+      cout << "1111    0000\n";
+      cout << "  11   00  00\n";
+      cout << "  11   00  00\n";
+      cout << "  11   00  00\n";
+      cout << "  11   00  00\n";
+      cout << "111111  0000\n";
+      break;
     default:
       cout << "You have chosen the value out of the range.";
       break;
