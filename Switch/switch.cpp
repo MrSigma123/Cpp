@@ -32,7 +32,12 @@ int main(void){
       break;
     case 3:
       cout << "You have chosen:" << endl;
-       
+      cout << " 3333\n";
+      cout << "33  33\n";
+      cout << "   333\n";
+      cout << "33  33\n";
+      cout << " 3333\n";
+      break;
     case 4:
       cout << "You have chosen:";
 
