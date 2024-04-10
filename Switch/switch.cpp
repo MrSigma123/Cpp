@@ -48,7 +48,12 @@ int main(void){
       break;
     case 5:
       cout << "You have chosen:";
-
+      cout << "555555";
+      cout << "55";
+      cout << "55555";
+      cout << "    55";
+      cout << "55555";
+      break;
     case 6:
       cout << "You have chosen:";
 
