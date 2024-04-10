@@ -64,7 +64,12 @@ int main(void){
       break;
     case 7:
       cout << "You have chosen:" << endl;
-
+      cout << "777777\n";
+      cout << "   77\n";
+      cout << "  77\n";
+      cout << " 77\n";
+      cout << "77\n";
+      break;
     case 8:
       cout << "You have chosen:";
 
